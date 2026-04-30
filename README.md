@@ -8,8 +8,5 @@ A versao mais recente esta disponivel na [pagina de Releases](https://github.com
 
 ## Instalacao
 
-Colocar o ficheiro `.jar` na pasta de plugins do servidor Hytale.
+Colocar o ficheiro `.jar` na pasta de plugins/mods do servidor Hytale.
 
-## Notas
-
-Este repositorio contem apenas as builds publicas do mod. O codigo fonte e privado.
